@@ -186,3 +186,4 @@ Fetch all the tour plans which created by the user
 ### Deleting
 https://travel-planner-app-backend.onrender.com/api/tour-plans/<id>
 Deleting the particular tour plans in DB
+### POSTMAN API: https://documenter.getpostman.com/view/34996607/2sA3XY7JPq
